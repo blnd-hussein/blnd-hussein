@@ -35,8 +35,8 @@ Harvard University's Introduction to Programming with Python. [Certification Lin
 - [**Playground**](https://playground.kurdcode.dev): A zero-setup web development environment tailored for the Kurdcode community. It offers intelligent syntax highlighting, instant live previews, and seamless external CDN support
 - [**Ajotin (EdTech)**](https://ajotin.pages.dev): Under Maintenance. An official practice platform for Kurdish driving licenses, increasing accessibility to educational resources for the local community. (Kurdish)
 - [**Nazkids (E-Commerce Platform)**](https://nazkids.pages.dev/): An online shopping site for a local clothing shop.
-- **ccomp (CLI Tool)**: A CLI-based automation tool for C++ compilation and library linkage to assist programming students.
-- **DictReader (C++ Library)**: A performant third-party library for parsing and reading CSV files in C++ environments.
+- [**ccomp (CLI Tool)**](https://github.com/Blnd-hussen/): A CLI-based automation tool for C++ compilation and library linkage to assist programming students.
+- [**DictReader (C++ Library)**](github.com/Blnd-hussen/DictReader): A performant third-party library for parsing and reading CSV files in C++ environments.
 - [**Simple Notes - Firefox**](https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link "https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link"): Built a lightweight browser extension using React and TypeScript for fast, local-storage-based note-taking
 
 ## Streaks
