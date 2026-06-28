@@ -2,9 +2,9 @@
 
 ## About Me
 
-I develop full-stack web applications covering all aspects from API design and implementation to developing the entire UI. I not only custom-build every aspect but also make sure of consistency, organisation and reliability. View my portfolio at [blnd.pages.dev](https://blnd.pages.dev).
+I develop full-stack web applications, covering everything from API design and implementation to the full UI. I not only custom-build every aspect but also ensure consistency, organisation and reliability. View my portfolio at blnd.pages.dev.
 
-## Skills
+# Skills
 
 I am most familiar with tools built on top of Python and JavaScript, such as Django and Flask, for developing RESTful API’s and JS-based frameworks such as React and NextJS to build modern and performant user interfaces. I am also familiar with other tools and principles critical to development, such as:
 
@@ -12,7 +12,7 @@ I am most familiar with tools built on top of Python and JavaScript, such as Dja
 - Deployment & Infrastructure, e.g. Linux Server Administration, VPS management, Nginx, Docker.
 - UI/UX Design Principles and CI/CD Pipelines.
 - Clear language and communication.
-
+  
 ## Education
 
 - Bachelor of Science in Computer Science, Komar University of Science and Technology, Sulaymaniyah. Current Student.
@@ -34,6 +34,7 @@ Harvard University's Introduction to Programming with Python. [Certification Lin
 - [**Kurdcode.dev**](https://kurdcode.dev): A tech learning platform tailored for Kurdish speakers, creating custom content management systems to support educational material.
 - [**Playground**](https://playground.kurdcode.dev): A zero-setup web development environment tailored for the Kurdcode community. It offers intelligent syntax highlighting, instant live previews, and seamless external CDN support
 - [**Ajotin (EdTech)**](https://ajotin.pages.dev): Under Maintenance. An official practice platform for Kurdish driving licenses, increasing accessibility to educational resources for the local community. (Kurdish)
+- **Prayer Times** ([Chrome](https://chromewebstore.google.com/detail/%DA%A9%D8%A7%D8%AA%DB%95%DA%A9%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%AF/feaimippleffgjnbcbkcmhdkpkbafodo?utm_source=item-share-cb), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/%DA%A9%D8%A7%D8%AA%DB%95%DA%A9%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%AF/)): A browser extension that provides users with accurate Islamic prayer times for cities in the Kurdistan region and display background notifications when a prayer time is approaching or has arrived.
 - [**Nazkids (E-Commerce Platform)**](https://nazkids.pages.dev/): An online shopping site for a local clothing shop.
 - [**ccomp (CLI Tool)**](https://github.com/blnd-hussein/): A CLI-based automation tool for C++ compilation and library linkage to assist programming students.
 - [**DictReader (C++ Library)**](github.com/blnd-hussein/DictReader): A performant third-party library for parsing and reading CSV files in C++ environments.
@@ -42,13 +43,13 @@ Harvard University's Introduction to Programming with Python. [Certification Lin
 ## Streaks
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Blnd-hussen&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=blnd-hussein&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Blnd-hussen/Blnd-hussen/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/blnd-hussein/blnd-hussein/output/snake.svg" alt="Snake animation" />
 
 ###
